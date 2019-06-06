@@ -7,6 +7,8 @@ class Project
     @title = title
   end
 
-  
+  def backers
+    @backers
+  end
 
 end
